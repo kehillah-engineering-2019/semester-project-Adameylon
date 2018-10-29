@@ -9,5 +9,5 @@ I will be using a 26 dollar set from amazon as my framework. From that set I wil
 I will be planning on using the lab laser cutter and 3D printer to create case of some sorts for the engine. 
 I plan on using the Arduino to create a system that can measure temperature, RPM, and possibly other interesting measurements of my engine (need you help for this part). 
 
-![](ezgif.com-gif-maker.mp4.gif)
+![](ezgif.com-video-to-gif.gif)
 
