@@ -13,4 +13,4 @@ I plan on using the Arduino to create a system that can measure temperature, RPM
 
 
 
-![alt text]()
+![alt text](WIN_20181025_10_03_04_Pro.jpg)
