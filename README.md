@@ -11,6 +11,6 @@ I plan on using the Arduino to create a system that can measure temperature, RPM
 
 ![](ezgif.com-video-to-gif.gif)
 
-
+After creating and generating some ideas from the model sterling engine I was ready to start my own prototype (derived from the following youtube video https://www.youtube.com/watch?v=Jk7Qn0aIE2c&t=0s&list=LLxRfzWlgLrxnCrF-a1ZqZ1w&index=2). Here is the list of acrylic printouts I came up with. 
 
 ![alt text](WIN_20181025_10_03_04_Pro.jpg)
