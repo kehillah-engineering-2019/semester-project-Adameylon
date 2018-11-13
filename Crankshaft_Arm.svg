@@ -58,25 +58,24 @@
      id="layer1"
      transform="translate(-152.83296,-64.040195)">
     <rect
-       style="fill:none;stroke:#ff0000;stroke-width:0.35277778;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.03527778;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4524"
        width="19.975319"
        height="209.97531"
        x="154.21266"
        y="65.419899"
        ry="25.081621" />
-    <ellipse
-       style="fill:none;stroke:#ff0000;stroke-width:0.53928167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.03951519;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4528"
        cx="164.20032"
-       cy="88.458916"
-       rx="2.080359"
-       ry="2.0803592" />
+       cy="88.206917"
+       r="2.3302424" />
     <circle
-       style="fill:none;stroke:#fe0000;stroke-width:0.38184687;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#fe0000;stroke-width:0.03808618;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4528-1"
        cx="164.20032"
-       cy="251.32675"
-       r="2.1590765" />
+       cy="251.15347"
+       r="2.3309569" />
   </g>
 </svg>
