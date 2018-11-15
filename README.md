@@ -15,4 +15,4 @@ After creating and generating some ideas from the model sterling engine I was re
 
 ![alt text](WIN_20181025_10_03_04_Pro.jpg)
 
-Alll the .svg files contain the needed information such as: size, porportions, measurments, etc..... for my sterling engine. All these files were created and modified on inkscape and printed on a trotec lasercutter. The material of all the following parts is acrylic. 
+All the .svg files, in my project hub, contain the needed information such as: size, porportions, measurments, etc..... for my sterling engine. All these files were created and modified on inkscape and printed on a trotec lasercutter. The material of all the following parts is acrylic. 
