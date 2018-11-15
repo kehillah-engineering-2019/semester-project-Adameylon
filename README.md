@@ -14,3 +14,5 @@ I plan on using the Arduino to create a system that can measure temperature, RPM
 After creating and generating some ideas from the model sterling engine I was ready to start my own prototype (derived from the following youtube video https://www.youtube.com/watch?v=Jk7Qn0aIE2c&t=0s&list=LLxRfzWlgLrxnCrF-a1ZqZ1w&index=2). Here is the list of acrylic printouts I came up with. 
 
 ![alt text](WIN_20181025_10_03_04_Pro.jpg)
+
+Alll the .svg files contain the needed information such as: size, porportions, measurments, etc..... for my sterling engine. All these files were created and modified on inkscape and printed on a trotec lasercutter. The material of all the following parts is acrylic. 
