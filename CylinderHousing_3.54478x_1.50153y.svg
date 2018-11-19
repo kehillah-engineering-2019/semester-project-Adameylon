@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3.5447781in"
+   height="1.5015347in"
+   viewBox="0 0 90.037361 38.138981"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="CylinderHousing_3.54478x_1.50153y.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2961717"
+     inkscape:cx="294.56479"
+     inkscape:cy="-55.988355"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="in"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(11.910148,-36.420288)">
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:0.03527778;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect815"
+       x="18.140867"
+       y="36.437927"
+       width="59.968704"
+       height="38.103703" />
+    <circle
+       r="2.3412135"
+       style="fill:none;stroke:#ff0000;stroke-width:0.03527778;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path819"
+       cx="67.209282"
+       cy="55.489777" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:0.03527778;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2482"
+       width="30.000175"
+       height="24.464897"
+       x="-11.892509"
+       y="41.62471"
+       rx="0" />
+  </g>
+</svg>
